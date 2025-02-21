@@ -10,7 +10,7 @@ Table of Contents
 * Technologies Used
 * Contributing
 * License
-* 
+  
 Introduction
 
 One Stop LMS is an online platform designed to manage, deliver, and track learning experiences. As part of the quality assurance process, a comprehensive set of manual test cases has been written to validate the key features of the platform.
